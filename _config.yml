@@ -82,34 +82,34 @@ analytics:
 author:
   name             : "Abhimanyu Susobhanan"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  bio              : "Postdoctoral fellow at National Centre for Radio Astrophysics"
+  location         : "Pune, India"
+  employer         : 
+  pubmed           : 
+  googlescholar    : "https://scholar.google.co.in/citations?hl=en&user=Qjvvm_YAAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  researchgate     : "https://www.researchgate.net/profile/Abhimanyu-Susobhanan"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "abhisrkckl"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/abhimanyu-susobhanan-18838835/"
+  orcid            : "https://orcid.org/0000-0002-2820-0931"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
