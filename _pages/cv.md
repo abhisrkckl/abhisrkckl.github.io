@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. in Physical Sciences, Indian Institute of Space Science and Technology, 2012
+* M.Sc. in Physics, Tata Institute of Fundamental Research, 2021
+* Ph.D in Astronomy & Astrophysics, Tata Institute of Fundamental Research, 2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sep 2021 - present: Postdoctoral Fellow
+  * National Centre for Radio Astrophysics
+  I am leading the effort to put together rhe first data release of the Indian Pulsar Timing Array experiment.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* July 2015 - Sep 2021: Research Scholar
+  * Tata Institute of Fundamental Research
+  * Thesis title: Perspectives in nanohertz gravitational wave astronomy
+  * Supervisor: Prof. A Gopakumar
+  
   
 Skills
 ======
