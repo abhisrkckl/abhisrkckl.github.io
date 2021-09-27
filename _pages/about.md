@@ -8,3 +8,5 @@ redirect_from:
   - /about.html
 ---
 
+I am an astrophysicist at National Centre for Radio Astrophysics in Pune. 
+I am interested in gravitational waves and pulsars.
