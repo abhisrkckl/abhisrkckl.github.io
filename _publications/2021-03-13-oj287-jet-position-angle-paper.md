@@ -6,7 +6,7 @@ excerpt: 'We model the radio jet position angle variations of the blazar OJ 287 
 date: 2021-03-13
 venue: 'Monthly Notices of the Royal Astronomical Society'
 paperurl: 'https://doi.org/10.1093/mnras/stab730'
-citation: 'Dey, L et al. (2015); &quot;Explaining temporal variations in the jet position angle of blazar OJ 287 using its binary black hole central engine model.&quot; <i>MNRAS</i>. 503, 3, 4400–4412.'
+citation: 'Dey, L et al. (2021); &quot;Explaining temporal variations in the jet position angle of blazar OJ 287 using its binary black hole central engine model.&quot; <i>MNRAS</i>. 503, 3, 4400–4412.'
 ---
 We model the radio jet position angle variations of the blazar OJ 287 using its binary black hole central engine model.
 
