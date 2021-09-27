@@ -19,12 +19,15 @@ Work experience
 ======
 * Sep 2021 - present: Postdoctoral Fellow
   * National Centre for Radio Astrophysics
-  I am leading the effort to put together rhe first data release of the Indian Pulsar Timing Array experiment.
+  * Summary: I am leading the effort to put together rhe first data release of the Indian Pulsar Timing Array experiment.
 
 * July 2015 - Sep 2021: Research Scholar
   * Tata Institute of Fundamental Research
   * Thesis title: Perspectives in nanohertz gravitational wave astronomy
   * Supervisor: Prof. A Gopakumar
+  * Summary
+    * Modelling nanohertz gravitational waves emitted by supermassive black hole binaries
+    * A data reduction pipeline for the updated Giant Metre-wave Radio Telescope.
   
   
 Skills
