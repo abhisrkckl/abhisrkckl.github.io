@@ -59,11 +59,14 @@ Skills
   * Python
   * Java
   * JavaScript
+  * bash
+  * Wolfram Mathematica
   * LaTeX
 * Astrophysical Software
   * PSRCHIVE
   * DSPSR
   * TEMPO2
+  * PINT
   * ENTERPRISE
 * Telescope observations
   * Giant Metre-wave Radio Telescope
@@ -89,6 +92,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-%Service and leadership
-%======
-%* Currently signed in to 43 different slack teams
+#Service and leadership
+#======
+#* Currently signed in to 43 different slack teams
