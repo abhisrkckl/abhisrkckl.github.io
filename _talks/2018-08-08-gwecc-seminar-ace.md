@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2014-02-01-talk-2
 venue: "Astronomy at the Cutting Edge Seminar"
-date: 2018-08
+date: 2018-08-08
 location: "Tata Institute of Fundamental Research, Mumbai, India"
 ---
 
