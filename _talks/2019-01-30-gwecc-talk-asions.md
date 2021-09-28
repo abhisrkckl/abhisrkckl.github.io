@@ -1,5 +1,5 @@
 ---
-title: "Accurate and Efficient Computation of Timing Residuals from Black Hole Binaries in Rela-tivistic Eccentric Orbits"
+title: "Accurate and Efficient Computation of Timing Residuals from Black Hole Binaries in Relativistic Eccentric Orbits"
 collection: talks
 type: "Talk"
 permalink: /talks/2019-01-30-gwecc-talk-asions
