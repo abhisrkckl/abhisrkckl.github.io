@@ -8,3 +8,4 @@ date: 2021-06-25
 location: ""
 ---
 
+[Video Recording](https://youtu.be/MDtaEg_KgYk?t=3962)
