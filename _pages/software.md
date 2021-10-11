@@ -9,7 +9,7 @@ It takes the uGMRT raw pulsar data as input, does RFI mitigation and folding, an
 It is now an [observatory pipeline at GMRT](http://www.ncra.tifr.res.in/ncra/gmrt/gmrt-users/pinta). 
 This pipeline was described in [this paper](/publication/2021-04-14-pinta-paper).
 
-[GitHub]((https://github.com/abhisrkckl/pinta))
+[GitHub](https://github.com/abhisrkckl/pinta)
 
 # `ugmrt2fil`
 `ugmrt2fil` is a program to convert uGMRT raw pulsar data to [sigproc](http://sigproc.sourceforge.net/)-filterbank format.
