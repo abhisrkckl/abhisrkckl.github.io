@@ -11,3 +11,5 @@ citation: 'Susobhanan, A et al. (2021). &quot;pinta: The uGMRT data processing p
 We present a data reduction pipeline for the upgrated Giant Metre-wave Radio Telescope pulsar observations
 
 [Preprint](https://arxiv.org/abs/2007.02930)
+
+[Code](https://github.com/abhisrkckl/pinta)
