@@ -11,3 +11,5 @@ citation: 'Susobhanan, A et al. (2020). &quot;Pulsar timing array signals induce
 We present a computationally efficient method to compute PTA signals due to eccentric supermassive black hole binaries
 
 [Preprint](https://arxiv.org/abs/2002.03285)
+
+[Code](https://github.com/abhisrkckl/GWecc)
