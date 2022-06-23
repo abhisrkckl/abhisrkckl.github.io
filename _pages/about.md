@@ -12,7 +12,7 @@ Hello!
 I am a postdoctoral fellow at the [Center for Gravitation, Cosmology & Astrophysics at University of Wisconsin-Milwaukee](https://cgca.uwm.edu/index.html). 
 I work on gravitational waves and pulsars.
 I used to work as a postdoc at [National Centre for Radio Astrophysics](http://www.ncra.tifr.res.in/ncra/main) in Pune, India. 
-I am a member of the [Indian Pulsar Timing Array](http://inpta.iitr.ac.in/) collaboration, the [NANOGrav](http://nanograv.org/) and the [International Pulsar Timing Array](http://ipta4gw.org/) consortium.
+I am a member of the [Indian Pulsar Timing Array](http://inpta.iitr.ac.in/) collaboration, the [NANOGrav](http://nanograv.org/) collaboration and the [International Pulsar Timing Array](http://ipta4gw.org/) consortium.
 
 I did my PhD from [Tata Institute of Fundamental Research](https://main.tifr.res.in/) in Mumbai, India. 
 You can find my PhD thesis [here](http://dx.doi.org/10.13140/RG.2.2.28080.64008) and [here](http://hdl.handle.net/10603/370757). 
