@@ -18,4 +18,4 @@ You can find my PhD thesis [here](http://dx.doi.org/10.13140/RG.2.2.28080.64008)
 I am a research associate at the [Center for Gravitation, Cosmology & Astrophysics at University of Wisconsin-Milwaukee](https://cgca.uwm.edu/index.html) at present. 
 I used to work as a postdoc at [National Centre for Radio Astrophysics](http://www.ncra.tifr.res.in/ncra/main) and as a Scientist/Engineer at [Liquid Propulsion Systems Centre](https://www.lpsc.gov.in/). 
 
-I am a member of the [Indian Pulsar Timing Array](http://inpta.iitr.ac.in/) collaboration, the [NANOGrav](http://nanograv.org/) collaboration and the [International Pulsar Timing Array](http://ipta4gw.org/) consortium.
+I am a member of the [Indian Pulsar Timing Array](http://inpta.iitr.ac.in/) collaboration, the [NANOGrav](http://nanograv.org/) collaboration, and the [International Pulsar Timing Array](http://ipta4gw.org/) consortium.
