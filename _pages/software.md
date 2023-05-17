@@ -21,7 +21,7 @@ It is a part of the `pinta` pipeline.
 `GWecc.jl` is a Julia library used to compute Pulsar Timing Array (PTA) signals due to gravitational waves emitted by black hole binaries. 
 It is designed to be called from PTA data analysis packages like [`ENTERPRISE`](https://github.com/nanograv/enterprise) and provides a Python binding for this purpose. 
 It can also be used to simulate pulsar time of arrivals using packages like [`libstempo`](https://github.com/vallis/libstempo) and [`PINT`](https://github.com/nanograv/PINT). 
-This code is described in [this paper](/publication/2022-10-21-gwecc-adb).
+This code is based on [this paper](/publication/2020-02-27-gwecc-paper) and [this paper](/publication/2022-10-21-gwecc-adb).
 It is a rewrite of the [GWecc](https://github.com/abhisrkckl/gwecc) code written in C++.
 
 [GitHub](https://github.com/abhisrkckl/gwecc.jl)
