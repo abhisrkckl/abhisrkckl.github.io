@@ -3,6 +3,20 @@ permalink: /software/
 title: "Software"
 ---
 
+# `PINT`
+`PINT` is a pure-Python pulsar timing package. It has been used extensively for preparing the data releases of the NANOGrav and IPTA collaborations.
+
+[GitHub](https://github.com/nanograv/PINT)
+
+# `GWecc.jl`
+`GWecc.jl` is a Julia library used to compute Pulsar Timing Array (PTA) signals due to gravitational waves emitted by black hole binaries. 
+It is designed to be called from PTA data analysis packages like [`ENTERPRISE`](https://github.com/nanograv/enterprise) and provides a Python binding for this purpose. 
+It can also be used to simulate pulsar time of arrivals using packages like [`libstempo`](https://github.com/vallis/libstempo) and [`PINT`](https://github.com/nanograv/PINT). 
+This code is based on [this paper](/publication/2020-02-27-gwecc-paper) and [this paper](/publication/2022-10-21-gwecc-adb).
+It is a rewrite of the [GWecc](https://github.com/abhisrkckl/gwecc) code written in C++.
+
+[GitHub](https://github.com/abhisrkckl/gwecc.jl)
+
 # `pinta`
 `pinta` is a data reduction pipeline for pulsar data taken using the upgraded [Giant Metre-wave Radio Telescope](https://gmrt.ncra.tifr.res.in/) (uGMRT).
 It takes the uGMRT raw pulsar data as input, does RFI mitigation and folding, and gives partially folded profile archives as output.
@@ -17,14 +31,10 @@ It is a part of the `pinta` pipeline.
 
 [GitHub](https://github.com/inpta/ugmrt2fil)
 
-# `GWecc.jl`
-`GWecc.jl` is a Julia library used to compute Pulsar Timing Array (PTA) signals due to gravitational waves emitted by black hole binaries. 
-It is designed to be called from PTA data analysis packages like [`ENTERPRISE`](https://github.com/nanograv/enterprise) and provides a Python binding for this purpose. 
-It can also be used to simulate pulsar time of arrivals using packages like [`libstempo`](https://github.com/vallis/libstempo) and [`PINT`](https://github.com/nanograv/PINT). 
-This code is based on [this paper](/publication/2020-02-27-gwecc-paper) and [this paper](/publication/2022-10-21-gwecc-adb).
-It is a rewrite of the [GWecc](https://github.com/abhisrkckl/gwecc) code written in C++.
+# `chimera`
+`chimera` is a pipeline for creating wideband TOAs from CHIME pulsar observations. It is used for integrating CHIME data into NANOGrav.
 
-[GitHub](https://github.com/abhisrkckl/gwecc.jl)
+[GitHub](https://github.com/abhisrkckl/chimera)
 
 # `mikkola`
 This is an implementation of [Mikkola's method](https://doi.org/10.1007/BF01235850) for solving the classical [Kepler equation](https://en.wikipedia.org/wiki/Kepler%27s_equation). 
