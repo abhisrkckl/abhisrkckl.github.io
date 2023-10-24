@@ -11,3 +11,9 @@ citation: 'Susobhanan, A. (2022); &quot;Post-Newtonian-accurate pulsar timing ar
 Computationally efficient strategies for computing pulsar timing array signals induced by supermassive eccentric binaries, and their demonstration via a pilot single-pulsar search.
 
 [Preprint](https://arxiv.org/abs/2210.11454)
+
+[Code](https://github.com/abhisrkckl/gwecc.jl)
+
+[Code](https://github.com/abhisrkckl/GWecc_1psr_search)
+
+[Data](https://doi.org/10.5281/zenodo.8028583)
