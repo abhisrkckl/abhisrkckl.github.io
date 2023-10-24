@@ -10,4 +10,4 @@ citation: 'Agazie G, et al. (2023). &quot;The NANOGrav 12.5-year data set: Multi
 
 [Preprint](https://arxiv.org/abs/2310.12138)
 
-[Code](https://github.com/lanky441/3C66B_GWecc_search)
+[Code](https://github.com/lanky441/NG12p5_3C66B_GWecc)
