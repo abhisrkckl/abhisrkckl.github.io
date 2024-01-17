@@ -1,5 +1,5 @@
 ---
-title: "The NANOGrav 12.5-year data set: Multi-messenger targeted search for gravitational waves from an eccentric supermassive binary in 3C 66B"
+title: "The NANOGrav 12.5-year data set: A computationally efficient eccentric binary search pipeline and constraints on an eccentric supermassive binary candidate in 3C 66B"
 collection: publications
 permalink: /publication/2023-09-29-3c66b-gwecc-search
 excerpt: 'The first-ever Bayesian PTA search for an eccentric binary using multiple pulsars.'
