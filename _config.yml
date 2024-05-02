@@ -10,7 +10,7 @@ locale                   : "en-IN"
 title                    : "Abhimanyu Susobhanan"
 title_separator          : "-"
 name                     : &name "Abhimanyu Susobhanan"
-description              : &description "Postdoctoral Fellow at University of Wisconsin-Milwaukee"
+description              : &description "Junior Scientist/Postdoctoral Fellow at Max Planck Institute for Gravitational Physics"
 url                      : https://abhisrkckl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "abhisrkckl/abhisrkckl.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Abhimanyu Susobhanan"
   avatar           : "AS.jpg"
-  bio              : "Postdoctoral fellow at University of Wisconsin-Milwaukee"
-  location         : "Milwaukee, USA"
+  bio              : "Junior Scientist/Postdoctoral Fellow at Max Planck Institute for Gravitational Physics"
+  location         : "Hannover, Germany"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.co.in/citations?hl=en&user=Qjvvm_YAAAAJ"
