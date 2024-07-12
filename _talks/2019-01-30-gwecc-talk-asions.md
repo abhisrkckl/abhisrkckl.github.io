@@ -7,4 +7,5 @@ venue: "Second Asian SKA Initiative on Neutron Stars (ASIONS) Meeting"
 date: 2019-01-30
 location: "National Astronomical Research Institute of Thailand, Chiang Mai, Thailand"
 ---
+
 [Presentation](http://dx.doi.org/10.13140/RG.2.2.12726.73288)

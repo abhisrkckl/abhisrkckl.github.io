@@ -3,7 +3,7 @@ title: "pinta: A uGMRT pulsar pipeline"
 collection: talks
 type: "Talk"
 permalink: /talks/2020-09-22-pinta-ipta
-venue: "International Pulsar Timing Array Catch-upmeeting (Online)"
+venue: "International Pulsar Timing Array Catch-up meeting (Online)"
 date: 2020-09-22
 location: ""
 ---

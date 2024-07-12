@@ -7,5 +7,3 @@ venue: "Probing relativistic gravity in the SKA era Workshop"
 date: 2019-01-26
 location: "National Astronomical Research Institute of Thailand, Chiang Mai, Thailand"
 ---
-
-
