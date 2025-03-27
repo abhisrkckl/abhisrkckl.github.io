@@ -4,7 +4,6 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2017-autumn-ed2
 venue: "Tata Institute of Fundamental Research"
-date: "2017"
 location: "Mumbai, India"
 ---
 

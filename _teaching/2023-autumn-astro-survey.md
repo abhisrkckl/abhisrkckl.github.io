@@ -4,7 +4,6 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-autumn-astro-survey
 venue: "University of Wisconsin-Milwaukee"
-date: "2023"
 location: "Milwaukee, Wisconsin, USA"
 ---
 
