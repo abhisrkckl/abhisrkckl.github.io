@@ -9,6 +9,12 @@ It is described in [this paper](https://ui.adsabs.harvard.edu/abs/2021ApJ...911.
 
 [GitHub](https://github.com/nanograv/PINT)
 
+# `Vela.jl`
+`Vela.jl` is a Bayesian pulsar timing & noise analysis package written in Julia and Python. It is described in 
+[this paper](https://ui.adsabs.harvard.edu/abs/2025ApJ...980..165S/abstract).
+
+[GitHub](https://github.com/abhisrkckl/Vela.jl)
+
 # `GWecc.jl`
 `GWecc.jl` is a Julia library used to compute Pulsar Timing Array (PTA) signals due to gravitational waves emitted by black hole binaries. 
 It is designed to be called from PTA data analysis packages like [`ENTERPRISE`](https://github.com/nanograv/enterprise) and provides a Python binding for this purpose. 
