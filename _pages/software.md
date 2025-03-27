@@ -5,7 +5,7 @@ title: "Software"
 
 # `PINT`
 `PINT` is a pure-Python pulsar timing package. It has been used extensively for preparing the data releases of the NANOGrav and IPTA collaborations.
-It is described in [this paper](https://ui.adsabs.harvard.edu/abs/2021ApJ...911...45L/abstract).
+It is described in [this paper](https://ui.adsabs.harvard.edu/abs/2021ApJ...911...45L/abstract) and [this paper](https://ui.adsabs.harvard.edu/abs/2024ApJ...971..150S/abstract).
 
 [GitHub](https://github.com/nanograv/PINT)
 
