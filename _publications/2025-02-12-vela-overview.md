@@ -6,7 +6,7 @@ excerpt: 'Overview of Vela.jl, a new package for Bayesian pulsar timing & noise 
 date: 2025-02-12
 venue: 'The Astrophysical Journal'
 paperurl: https://doi.org/10.3847/1538-4357/adaaec
-citation: 'Susobhanan A, et al. (2025); &quot;Bayesian Pulsar Timing and Noise Analysis with Vela.jl: An Overview.&quot; <i>ApJ</i> 980 165.'
+citation: 'Susobhanan A (2025); &quot;Bayesian Pulsar Timing and Noise Analysis with Vela.jl: An Overview.&quot; <i>ApJ</i> 980 165.'
 ---
 Overview of Vela.jl, a new package for Bayesian pulsar timing & noise analysis written in Julia and Python focusing on the narrowband paradigm
 
