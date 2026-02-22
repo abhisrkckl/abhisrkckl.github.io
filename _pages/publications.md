@@ -11,7 +11,7 @@ author_profile: true
 
 See my [up-to-date publication list in NASA ADS](https://ui.adsabs.harvard.edu/search/q=%20author%3A%22susobhanan%2C%20abhimanyu%22&sort=date%20desc%2C%20bibcode%20desc&p_=0).
 
-You can find my popular articles here <a href="/popular-articles/"></a>.
+You can find my popular articles [here](/popular-articles/)
 
 {% include base_path %}
 
