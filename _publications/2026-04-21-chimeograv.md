@@ -6,7 +6,7 @@ excerpt: 'Combining the CHIME observations of four millisecond pulsars with the 
 date: 2026-04-21
 venue: 'The Astrophysical Journal'
 paperurl: https://doi.org/10.3847/1538-4357/ae563f
-citation: 'Agazie G, et al. (2025); &quot;CHIME-o-Grav: Wideband Timing of Four Millisecond Pulsars from the NANOGrav 15-yr dataset.&quot; <i>arXiv eprints</i> 2510.16668.'
+citation: 'Agazie G, et al. (2026); &quot;CHIME-o-Grav: Wideband Timing of Four Millisecond Pulsars from the NANOGrav 15-yr dataset.&quot; <i>ApJ</i> 1002 1.'
 ---
 Combining the CHIME observations of four millisecond pulsars with the NANOGrav 15-year dataset using the wideband timing paradigm.
 
