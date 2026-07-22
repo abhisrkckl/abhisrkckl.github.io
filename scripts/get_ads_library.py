@@ -5,7 +5,6 @@ import requests
 import os
 import ads
 
-
 ADS_TOKEN = os.environ["ADS_DEV_KEY"]
 
 
@@ -96,20 +95,20 @@ def paper_as_md(paper):
     date = paper.date[:10]
     citation = format_citation(paper)
     arxivid = get_arxiv_id(paper)
-    return f"""
-    ---
-    title: "{paper.title[0]}"
-    collection: publications
-    permalink: /publication/{date}-{paper.bibcode}
-    date: {date}
-    venue: '{paper.pub}'
-    paperurl: https://doi.org/{paper.doi[0]}
-    citation: '{citation}.'
-    ---
-    {paper.abstract}.
+    return f"""---
+title: "{paper.title[0]}"
+collection: publications
+permalink: /publication/{date}-{paper.bibcode}
+date: {date}
+venue: '{paper.pub}'
+paperurl: https://doi.org/{paper.doi[0]}
+citation: '{citation}.'
+---
+{paper.abstract}.
 
-    [Preprint](https://arxiv.org/abs/{arxivid})
-    """
+[Preprint](https://arxiv.org/abs/{arxivid})
+"""
+
 
 def save_paper_md(paper, output_dir="."):
     """Save a paper as a Markdown file."""
@@ -123,6 +122,7 @@ def save_paper_md(paper, output_dir="."):
     filename.write_text(paper_as_md(paper), encoding="utf-8")
 
     return filename
+
 
 for paper in papers:
     save_paper_md(paper, output_dir="../_publications")
