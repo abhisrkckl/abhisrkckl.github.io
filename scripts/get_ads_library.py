@@ -98,7 +98,7 @@ def paper_as_md(paper):
     return f"""---
 title: "{paper.title[0]}"
 collection: publications
-permalink: /publication/{date}-{paper.bibcode}
+permalink: /publication/{date}-{arxivid}
 date: {date}
 venue: '{paper.pub}'
 paperurl: https://doi.org/{paper.doi[0]}
