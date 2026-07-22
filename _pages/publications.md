@@ -9,7 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-See a list of my [selected publications in NASA ADS](https://ui.adsabs.harvard.edu/search/q=docs(library%2FIfGigYrbQvyqn94YRYC7Xw)&sort=date%20desc%2C%20bibcode%20desc&p_=0).
+You can see see a list of my [selected publications in NASA ADS](https://ui.adsabs.harvard.edu/search/q=docs(library%2FIfGigYrbQvyqn94YRYC7Xw)&sort=date%20desc%2C%20bibcode%20desc&p_=0).
 
 You can find my popular articles [here](/popular-articles/)
 
