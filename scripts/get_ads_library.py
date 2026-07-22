@@ -98,7 +98,7 @@ def paper_as_md(paper):
     arxivid = get_arxiv_id(paper)
     return f"""
     ---
-    title: "{paper.title}"
+    title: "{paper.title[0]}"
     collection: publications
     permalink: /publication/{date}-{paper.bibcode}
     date: {date}
@@ -125,4 +125,4 @@ def save_paper_md(paper, output_dir="."):
     return filename
 
 for paper in papers:
-    save_paper_md(paper, output_dir="../_publications1")
+    save_paper_md(paper, output_dir="../_publications")
