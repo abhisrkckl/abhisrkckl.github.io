@@ -76,7 +76,7 @@ def format_citation(p):
     volume = getattr(p, "volume", "")
     page = getattr(p, "page", [""])[0]
     return (
-        f"{authors} ({year}), [{journal} {volume} {page}](https://doi.org/{p.doi[0]})"
+        f"{authors} ({year}), {journal} {volume} {page} DOI:{p.doi[0]}"
     )
 
 
