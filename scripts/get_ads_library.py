@@ -98,14 +98,13 @@ def paper_as_md(paper):
     return f"""---
 title: "{paper.title[0]}"
 collection: publications
-excerpt: ''
+excerpt: '{paper.abstract}'
 permalink: /publication/{date}-{arxivid}.html
 date: {date}
 venue: '{paper.pub}'
 paperurl: https://doi.org/{paper.doi[0]}
 citation: '{citation}.'
 ---
-{paper.abstract}
 
 [Preprint](https://arxiv.org/abs/{arxivid})
 """
