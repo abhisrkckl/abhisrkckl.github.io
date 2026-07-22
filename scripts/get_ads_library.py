@@ -75,9 +75,7 @@ def format_citation(p):
     journal = p.pub
     volume = getattr(p, "volume", "")
     page = getattr(p, "page", [""])[0]
-    return (
-        f"{authors} ({year}), {journal} {volume} {page} DOI:{p.doi[0]}"
-    )
+    return f"{authors} ({year}), {journal} {volume} {page}"
 
 
 def get_arxiv_id(paper):
