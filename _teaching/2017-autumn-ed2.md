@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant for Classical Electrodynamics II (P-206)"
+title: "Classical Electrodynamics II (P-206) (Teaching Assistant)"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2017-autumn-ed2

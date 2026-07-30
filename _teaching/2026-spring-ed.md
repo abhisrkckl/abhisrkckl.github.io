@@ -1,5 +1,5 @@
 ---
-title: "Instructor for Electrodynamics (PH 401)"
+title: "Electrodynamics (PH 401)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2026-spring-ed

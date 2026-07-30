@@ -1,5 +1,5 @@
 ---
-title: "Substitute Instructor for Survey of Astronomy (ASTRON 103)"
+title: "Survey of Astronomy (ASTRON 103) (Substitute Instructor)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-autumn-astro-survey

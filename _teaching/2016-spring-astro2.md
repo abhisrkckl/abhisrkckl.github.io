@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant for Astronomy & Astrophysics II"
+title: "Astronomy & Astrophysics II (Teaching Assistant)"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2016-spring-astro2
